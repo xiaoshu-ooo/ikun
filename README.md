@@ -1,1 +1,1 @@
-ikun Any
+shell permission detection
